@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\CodeAc\Class work\bin\Debug\net6.0\Class work.exe
+C:\Users\Admin\Desktop\CodeAc\Class work\bin\Debug\net6.0\Class work.deps.json
+C:\Users\Admin\Desktop\CodeAc\Class work\bin\Debug\net6.0\Class work.runtimeconfig.json
+C:\Users\Admin\Desktop\CodeAc\Class work\bin\Debug\net6.0\Class work.dll
+C:\Users\Admin\Desktop\CodeAc\Class work\bin\Debug\net6.0\Class work.pdb
+C:\Users\Admin\Desktop\CodeAc\Class work\obj\Debug\net6.0\Class work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CodeAc\Class work\obj\Debug\net6.0\Class work.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CodeAc\Class work\obj\Debug\net6.0\Class work.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CodeAc\Class work\obj\Debug\net6.0\Class work.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CodeAc\Class work\obj\Debug\net6.0\Class work.dll
+C:\Users\Admin\Desktop\CodeAc\Class work\obj\Debug\net6.0\refint\Class work.dll
+C:\Users\Admin\Desktop\CodeAc\Class work\obj\Debug\net6.0\Class work.pdb
+C:\Users\Admin\Desktop\CodeAc\Class work\obj\Debug\net6.0\Class work.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CodeAc\Class work\obj\Debug\net6.0\ref\Class work.dll
